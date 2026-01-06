@@ -51,7 +51,7 @@ print(f"{name}, please come to dinner.")
 name = guests[5].title()
 print(f"{name}, please come to dinner.")
 
-#Fuck, the table got held up in customes.
+#F$%k! The table got held up in customes.
 print("\nSorry, we can only invite two people to dinner.")
 
 name = guests.pop()
@@ -78,4 +78,5 @@ del(guests[0])
 del(guests[0])
 
 # Prove the list is empty.
+
 print(guests)
