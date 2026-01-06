@@ -1,14 +1,14 @@
-# List of Fucking cars
+# List of cars
 cars = ['bmw', 'Audi', 'toyota', 'subaru', 'ford', 'gm']
 cars.sort()
 print(cars)
 
-# List of Fucking cars
+# List of cars
 cars = ['bmw', 'Audi', 'toyota', 'subaru', 'ford', 'gm']
 cars.sort(reverse=True)
 print(cars)
 
-# List of Fucking cars
+# List of cars
 cars = ['bmw', 'Audi', 'toyota', 'subaru', 'ford', 'gm']
 print("Here is the original list")
 print(cars)
@@ -27,4 +27,5 @@ print(cars)
 
 cars = ['bmw', 'Audi', 'toyota', 'subaru', 'ford', 'gm']
 x = len(cars)
+
 print(x)
