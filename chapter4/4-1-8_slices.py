@@ -1,0 +1,6 @@
+#This is how to use slices in python
+players = ['charles', 'martina', 'michael', 'brandon', 'florence', 'greg', 'eli']
+
+print("Here are the first three players on my team:")
+for player in players [:3]:
+    print(player.title())
